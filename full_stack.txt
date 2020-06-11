@@ -1,2 +1,4 @@
+html and css
 java script
 full stack
+jquery
