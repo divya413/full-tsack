@@ -1,0 +1,176 @@
+    2  ls
+    3  pwd
+    4  cd
+    5  cd divya
+    6  cd lenovo
+    7  cd desktop
+    8  cd downloads
+    9  cd fullstack
+   10  cd full stack
+   11  clear
+   12  ls
+   13  pwd
+   14  cd desktop
+   15  cd pc
+   16  cd pye4
+   17  mkdir
+   18  mkdir divya
+   19  ls
+   20  cd divya
+   21  touch full_stack.txt
+   22  ls
+   23  cat full_stack.txt
+   24  echo "full stack developer" > full_stack.txt
+   25  cat full_stack.txt
+   26  echo "java script" >> full_stack.txt
+   27  cat full_stack.txt
+   28  nano data.txt
+   29  ls
+   30  rm data.txt
+   31  ls
+   32  rm -f data.txt
+   33  ls
+   34  rm -d divya
+   35  git init
+   36  git status
+   37  git add full_stack.txt
+   38  git status
+   39  git commit -m "first commit"
+   40  git config --global user.email '221710307040@gitam.in'
+   41  git config --global user.name 'divya'
+   42  git config user.email
+   43  git config user.name
+   44  git commit -m "first commit"
+   45  nano full_stack.txt
+   46  git status
+   47  git add full_stack.txt
+   48  git log
+   49  mkdir full stack
+   50  ls
+   51  mkdir fulll stack
+   52  history
+   53  history 448
+   54  ls
+   55  pwd
+   56  ls -a
+   57  cd desktop
+   58  cd ..
+   59  cd pc
+   60  cd desktop
+   61  cd pc
+   62  cd ..
+   63  cd
+   64  cd desktop
+   65  mkdir Fullstackdiv
+   66  ls
+   67  cd Fullstackdiv
+   68  touch Full_stack.txt
+   69  ls
+   70  cat Full_stack.txt
+   71  echo "Full_stack.txt
+   72  gjf
+   73  ls
+   74  echo "Full stack developer" > Full_stack.txt
+   75  cat Full_stack.txt
+   76  echo "html and css"> full_stack.txt
+   77  car full_stack.txt
+   78  cat full_stack.txt
+   79  echo "javascript" >> full_stack.txt
+   80  cat full
+   81  cat full_stack.txt
+   82  gedit full_stack.txt
+   83  nano full_stack.txt
+   84  cat full_stack.txt
+   85  nana data.txt
+   86  nano data.txt
+   87  ls
+   88  nano data.txt
+   89  rm help
+   90  rm --help
+   91  rm data.txt
+   92  ls
+   93  rm -f data.txt
+   94  rm -d
+   95  mkdir git
+   96  ls
+   97  git init
+   98  git status
+   99  gitam add full_stack.txt
+  100  git add full_stack.txt
+  101  git status
+  102  git commit -m "first commit"
+  103  git add
+  104  git add Full_stack.txt
+  105  git status
+  106  git rm--full_stack.txt
+  107  git --version
+  108  pwd
+  109  cd desktop
+  110  ls
+  111  cd divya
+  112  cd desktop
+  113  cd desktop/
+  114  cd fullstack
+  115  cd full stack
+  116  clear
+  117  git --version
+  118  ls
+  119  cd desktop
+  120  ls
+  121  cd full stack
+  122  git --version
+  123  pwd
+  124  ld
+  125  ls
+  126  cd Desktop
+  127  cd Fullstack
+  128  mkdir fullstackdev
+  129  cd full
+  130  cd fullstackdev/
+  131  touch full_stack.txt
+  132  ls
+  133  cat full_stack.txt
+  134  echo "full stack" > full_stack.txt
+  135  cat full_stack.txt
+  136  gedit full_stack.txt
+  137  nano full_stack.txt
+  138  cat full_stack.txt
+  139  nano data.txt
+  140  rm help
+  141  rm --help
+  142  rm data.txt
+  143  ls
+  144  rm -f data.txt
+  145  mkdir git
+  146  ls
+  147  git init
+  148  git status
+  149  git add full_stack.txt
+  150  git status
+  151  git commit -m "first commit"
+  152  git config --global user.email 'divyakotha413@gmail.com'
+  153  git config --global user.name 'divya'
+  154  git config user.email
+  155  git config user.name
+  156  nano full_stack.txt
+  157  git status
+  158  git add full_stack.txt
+  159  git commit -m "second commit"
+  160  git log
+  161  mkdir full-tsack
+  162  ls
+  163  git remote -help
+  164  git remote add full-tsack https://github.com/divya413/full-tsack
+  165  git remote show
+  166  git remote -v
+  167  git pull full-tsack master
+  168  git push -u full-stack
+  169  git push --set-upstream full-stack master
+  170  git push --set-upstream full-tsack master
+  171  git push --set-upstream full-tsack master
+  172  git push --set-upstream full-tsack master
+  173  git push --set-upstream full-tsack master
+  174  git push -f --set-upstream full-tsack master
+  175  git push -f --set-upstream full-tsack master
+  176  history
+  177  history 176 > gitcommands.txt
